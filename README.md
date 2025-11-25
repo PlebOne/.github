@@ -18,7 +18,7 @@ PlebOne builds open-source, privacy-respecting, decentralized tools that empower
 
 | Category | Technologies |
 |----------|-------------|
-| **Backend** | Rust, NestJS, TypeORM, PostgreSQL |
+| **Backend** | Rust, NestJS, Rails, Elixir/Phoenix, TypeORM, PostgreSQL |
 | **Frontend** | Vanilla JavaScript, HTML5, CSS3 |
 | **Runtime** | Node.js (managed via Mise) |
 | **Auth** | Nostr NIP-07 (nos2x, Alby) |
